@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/fariedrisky/go-rest-api/config"
+	"github.com/fariedrisky/go-restful-mysql/config"
 
 	_ "github.com/go-sql-driver/mysql"
 )

@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/fariedrisky/go-rest-api/database"
-	"github.com/fariedrisky/go-rest-api/routes"
+	"github.com/fariedrisky/go-restful-mysql/database"
+	"github.com/fariedrisky/go-restful-mysql/routes"
 )
 
 func main() {

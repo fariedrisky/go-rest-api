@@ -1,4 +1,4 @@
-module github.com/fariedrisky/go-rest-api
+module github.com/fariedrisky/go-restful-mysql
 
 go 1.22.5
 

@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/fariedrisky/go-rest-api/database"
-	"github.com/fariedrisky/go-rest-api/models"
+	"github.com/fariedrisky/go-restful-mysql/database"
+	"github.com/fariedrisky/go-restful-mysql/models"
 )
 
 // GetAllUsers fetches all users from the database.

@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/fariedrisky/go-rest-api/database"
-	"github.com/fariedrisky/go-rest-api/models"
-	"github.com/fariedrisky/go-rest-api/utils"
+	"github.com/fariedrisky/go-restful-mysql/database"
+	"github.com/fariedrisky/go-restful-mysql/models"
+	"github.com/fariedrisky/go-restful-mysql/utils"
 )
 
 // Register registers a new user into the database.

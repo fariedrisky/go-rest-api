@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/fariedrisky/go-rest-api/controllers"
+	"github.com/fariedrisky/go-restful-mysql/controllers"
 
 	"github.com/gorilla/mux"
 )
